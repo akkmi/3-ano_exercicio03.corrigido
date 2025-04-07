@@ -1,6 +1,9 @@
 {
   "devDependencies": {
-    "grunt": "^1.5.3"
+    "grunt": "^1.5.3",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "sass": "^1.86.3"
   },
   "name": "3-ano_exercicio03.corrigido",
   "version": "1.0.0",
